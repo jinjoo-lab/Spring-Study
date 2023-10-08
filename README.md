@@ -11,9 +11,7 @@
 
 시간: 1시간 ~ 2시간
 
-주제: **Spring**, CS 지식(데이터베이스, 운영체제, 네트워크)
-
-벌금: 5천원 시작 후, 매번 천원씩 증가
+주제: **Spring**
 
 벌금 기준: 스터디 시작 전까지 발표 내용 작성이 완료되지 않은 경우
 
@@ -22,3 +20,12 @@
 - 매주 돌아가며 주제를 발표, 발표는 1명, 나머지는 공통으로 스터디 및 질문 준비
     - 질문은 스터디 시작 이틀전 자정까지 올라와야 한다.
     - Spring Core -> JPA -> Security
+
+### [Spring Core]
+- [IOC](https://github.com/jinjoo-lab/Spring-Study/blob/main/Core/IOC.md)
+- [DI-1](https://github.com/jinjoo-lab/Spring-Study/blob/main/Core/DI_1.md)
+- [DI-2](https://github.com/jinjoo-lab/Spring-Study/blob/main/Core/DI_2.md)
+- [AOP-Proxy](https://github.com/jinjoo-lab/Spring-Study/blob/main/Core/AOP_Proxy.md)
+
+### [JPA]
+- [영속성컨텍스트](https://github.com/jinjoo-lab/Spring-Study/blob/main/JPA/PersistenceContext.md)
