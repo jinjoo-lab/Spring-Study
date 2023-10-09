@@ -22,6 +22,7 @@
 - [DI-1](https://github.com/jinjoo-lab/Spring-Study/blob/main/Core/DI_1.md)
 - [DI-2](https://github.com/jinjoo-lab/Spring-Study/blob/main/Core/DI_2.md)
 - [AOP-Proxy](https://github.com/jinjoo-lab/Spring-Study/blob/main/Core/AOP_Proxy.md)
+- [AOP](https://github.com/jinjoo-lab/Spring-Study/blob/main/Core/AOP.md)
 
 ### [JPA]
 - [영속성컨텍스트](https://github.com/jinjoo-lab/Spring-Study/blob/main/JPA/PersistenceContext.md)
