@@ -24,6 +24,7 @@
 - [AOP-Proxy](https://github.com/jinjoo-lab/Spring-Study/blob/main/Core/AOP_Proxy.md)
 - [AOP](https://github.com/jinjoo-lab/Spring-Study/blob/main/Core/AOP.md)
 - [Dispatcher Servlet-1](https://github.com/jinjoo-lab/Spring-Study/blob/main/Core/DispatcherServlet_1.md)
+- [Dispatcher Servlet-2 Interview](https://github.com/jinjoo-lab/Spring-Study/blob/main/Core/DispatcherServlet_2.md)
 
 ### [JPA]
 - [영속성컨텍스트](https://github.com/jinjoo-lab/Spring-Study/blob/main/JPA/PersistenceContext.md)
