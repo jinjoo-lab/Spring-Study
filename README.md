@@ -28,3 +28,4 @@
 
 ### [JPA]
 - [영속성컨텍스트](https://github.com/jinjoo-lab/Spring-Study/blob/main/JPA/PersistenceContext.md)
+- [연관관계+영속성전이](https://github.com/jinjoo-lab/Spring-Study/blob/main/JPA/Relation_Cascade.md)
