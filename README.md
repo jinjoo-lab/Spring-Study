@@ -38,3 +38,4 @@
 - [Security Filter](https://github.com/jinjoo-lab/Spring-Study/blob/main/Security/Filter.md)
 - [Authentication](https://github.com/jinjoo-lab/Spring-Study/blob/main/Security/Authentication.md)
 - [JWT-개념](https://github.com/jinjoo-lab/Spring-Study/blob/main/Security/JWT_1.md)
+- [Authorizatin](https://github.com/jinjoo-lab/Spring-Study/blob/main/Security/Authorization.md)
